@@ -74,5 +74,5 @@ acc2.transfer(acc1,500)
 acc2.display_balance()
 
 acc2.withdraw(500)
-#current parameters 435-500 should overdraft again final balance -970
+#current parameters -435-500 should overdraft again final balance -970
 acc2.display_balance()
